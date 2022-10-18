@@ -1,0 +1,80 @@
+body{
+    height:100%;
+    font-size: 1rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.gradient{
+    background: rgb(43, 156, 26);
+    background: linear-gradient(90deg, rgb(32, 164, 78) 0%, rgb(66, 194, 126) 35%, rgb(39, 222, 26) 100%);
+}
+
+.page-header{
+    margin-top:4rem;
+    font-size:1.25rem;
+    color:white;
+    
+
+}
+.feature{
+    color:white;
+}
+.feature ul{
+    padding-left: 2rem;
+    list-style-type: none;
+}
+.feature ul li{
+    padding-left: 2rem;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+.icon{
+    color:rgb(10, 65, 2);
+    height:5rem;
+    width:5rem;
+    font-size:1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.gallery img{
+    border-radius:5%;
+}
+.services{
+    color: white;
+}
+ footer{
+    color:white;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+ }
+ a{
+    color:white;
+    text-decoration: none;
+ }
+.minecraft-logo{
+    width: 600px;
+    height: 20px;
+}
+.minecraftfrontpage{
+    width: 700px
+    ;height: 500px;
+}
+.microsoft{
+    height: 5000px;
+    width: 2800px;
+}
+.minecraftgame{
+    width: 500px;
+    height: 250px;
+}
+.streamers{
+    width: 400px;
+    height: 183px;
+}
+.sales{
+    width: 256px;
+    height: 183px;
+}
